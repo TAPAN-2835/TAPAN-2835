@@ -2,9 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Backend Development. 
 - 💞️ I’m looking to collaborate on different projects related to web development.
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 TAPAN-2835/TAPAN-2835 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
